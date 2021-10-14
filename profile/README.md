@@ -26,17 +26,17 @@ We work with the biggest companies to design, build, and scale successful Flutte
 ### 💻 Visit [our website](vgv_website)
 
 ### 📚 Learn more on [our blog](vgv_blog)
+- [What's New in Bloc v7.2.0](bloc_7_2)
 - [Very Good Ventures Expands Presence in Europe with New Poland Office](poland_blog)
 - [Why We Use flutter_bloc for State Management](why_bloc)
 - [Top Flutter & Dart Packages](top_packages)
-- [Mocking Flutter Routes with Mockingjay](mockingjay)
 - [Flutter Testing: A Very Good Guide](flutter_testing)
 
 [success_stories]: https://verygood.ventures/success-stories
 [vgv_website]: https://verygood.ventures/
-[poland_blog]: https://verygood.ventures/blog/very-good-ventures-expands-to-poland?utm_source=github&utm_medium=readme&utm_campaign=poland
-[why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=why_bloc
-[top_packages]: https://verygood.ventures/blog/top-flutter-dart-packages?utm_source=github&utm_medium=readme&utm_campaign=top_packages
-[mockingjay]:  https://verygood.ventures/blog/mocking-flutter-routes-with-mockingjay?utm_source=github&utm_medium=readme&utm_campaign=mockingjay
-[flutter_testing]:  https://verygood.ventures/blog/mocking-flutter-routes-with-mockingjay?utm_source=github&utm_medium=readme&utm_campaign=flutter_testing
-[vgv_blog]: https://verygood.ventures/blog?utm_source=github&utm_medium=readme&utm_campaign=vgv_blog
+[bloc_7_2]: https://verygood.ventures/blog/whats-new-in-bloc-v7-2-0?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_bloc_7_2
+[poland_blog]: https://verygood.ventures/blog/very-good-ventures-expands-to-poland?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_poland
+[why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
+[top_packages]: https://verygood.ventures/blog/top-flutter-dart-packages?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_top_packages
+[flutter_testing]:  https://verygood.ventures/blog/guide-to-flutter-testing?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_testing_guide
+[vgv_blog]: https://verygood.ventures/blog?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blog
