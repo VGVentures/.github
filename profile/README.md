@@ -2,7 +2,7 @@
 
 We work with the biggest companies to design, build, and scale successful Flutter apps.
 
-### 💡 See [our work](success_stories) 
+### 💡 See [our work][success_stories]
 
 <div style="text-align: center">
     <table>
@@ -23,14 +23,14 @@ We work with the biggest companies to design, build, and scale successful Flutte
     </table>
 </div>
 
-### 💻 Visit [our website](vgv_website)
+### 💻 Visit [our website][vgv_website]
 
-### 📚 Learn more on [our blog](vgv_blog)
-- [What's New in Bloc v7.2.0](bloc_7_2)
-- [Very Good Ventures Expands Presence in Europe with New Poland Office](poland_blog)
-- [Why We Use flutter_bloc for State Management](why_bloc)
-- [Top Flutter & Dart Packages](top_packages)
-- [Flutter Testing: A Very Good Guide](flutter_testing)
+### 📚 Learn more on [our blog][vgv_blog]
+- [What's New in Bloc v7.2.0][bloc_7_2]
+- [Very Good Ventures Expands Presence in Europe with New Poland Office][poland_blog]
+- [Why We Use flutter_bloc for State Management][why_bloc]
+- [Top Flutter & Dart Packages][top_packages]
+- [Flutter Testing: A Very Good Guide][flutter_testing]
 
 [success_stories]: https://verygood.ventures/success-stories
 [vgv_website]: https://verygood.ventures/
