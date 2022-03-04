@@ -2,6 +2,8 @@
 
 We work with the biggest companies to design, build, and scale successful Flutter apps.
 
+✨ **[We're hiring!][vgv_careers]** ✨
+
 ### 💡 See [our work][success_stories]
 
 <div style="text-align: center">
@@ -40,3 +42,5 @@ We work with the biggest companies to design, build, and scale successful Flutte
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
 [flutter_testing]:  https://verygood.ventures/blog/guide-to-flutter-testing?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_testing_guide
 [vgv_blog]: https://verygood.ventures/blog?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blog
+[vgv_team]: https://verygood.ventures/about
+[vgv_careers]: https://verygood.ventures/careers
