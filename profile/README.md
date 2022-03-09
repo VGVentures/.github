@@ -28,11 +28,11 @@ We work with the biggest companies to design, build, and scale successful Flutte
 ### 💻 Visit [our website][vgv_website]
 
 ### 📚 Learn more on [our blog][vgv_blog]
+- [Flutter testing resources][testing_resources]
 - [Configuring workflows for your Flutter projects][workflows]
 - [Bloc v8.0.0 is out!][bloc_v8]
 - [Top 5 things we look for in Flutter code assessments][5_things]
 - [Why we use flutter_bloc for state management][why_bloc]
-- [Flutter testing: A very good guide][flutter_testing]
 
 [success_stories]: https://verygood.ventures/success-stories
 [vgv_website]: https://verygood.ventures/
@@ -40,7 +40,7 @@ We work with the biggest companies to design, build, and scale successful Flutte
 [bloc_v8]: https://verygood.ventures/blog/bloc-v8-release?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blocv8
 [5_things]: https://verygood.ventures/blog/top-5-things-in-flutter-code-assessments?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_5_things
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
-[flutter_testing]:  https://verygood.ventures/blog/guide-to-flutter-testing?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_testing_guide
+[testing_resources]: https://verygood.ventures/blog/flutter-testing-resources?utm_source=github&utm_medium=readme&utm_campaign=testing_resources 
 [vgv_blog]: https://verygood.ventures/blog?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blog
 [vgv_team]: https://verygood.ventures/about
 [vgv_careers]: https://verygood.ventures/careers
