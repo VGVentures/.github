@@ -3,9 +3,9 @@
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-We work with the biggest companies to design, build, and scale successful Flutter apps.
+We work with the biggest companies to design, build, and scale successful Flutter apps. ✨ And, **[we're hiring!][vgv_careers]** ✨
 
-✨ **[We're hiring!][vgv_careers]** ✨
+Check out our [open source tools][vgv_oss_github_link].
 
 ### 💡 See [our work][success_stories]
 
@@ -51,3 +51,4 @@ We work with the biggest companies to design, build, and scale successful Flutte
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
 [very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
 [very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
+[vgv_oss_github_link]: https://github.com/VeryGoodOpenSource
