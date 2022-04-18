@@ -31,6 +31,7 @@ Check out our [open source tools][vgv_oss_github_link].
 ### 💻 Visit [our website][vgv_website]
 
 ### 📚 Learn more on [our blog][vgv_blog]
+- [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
 - [Configuring workflows for your Flutter projects][workflows]
 - [Bloc v8.0.0 is out!][bloc_v8]
@@ -44,6 +45,7 @@ Check out our [open source tools][vgv_oss_github_link].
 [5_things]: https://verygood.ventures/blog/top-5-things-in-flutter-code-assessments?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_5_things
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
 [testing_resources]: https://verygood.ventures/blog/flutter-testing-resources?utm_source=github&utm_medium=readme&utm_campaign=testing_resources 
+[vgv_architecture]: https://verygood.ventures/blog/very-good-flutter-architecture?utm_source=github&utm_medium=readme&utm_campaign=app_architecture
 [vgv_blog]: https://verygood.ventures/blog?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blog
 [vgv_team]: https://verygood.ventures/about
 [vgv_careers]: https://verygood.ventures/careers
