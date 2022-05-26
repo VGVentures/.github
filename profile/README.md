@@ -31,18 +31,16 @@ Check out our [open source tools][vgv_oss_github_link].
 ### 💻 Visit [our website][vgv_website]
 
 ### 📚 Learn more on [our blog][vgv_blog]
+- [Dart on the server with Dart Frog][dart_frog]
 - [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
 - [Configuring workflows for your Flutter projects][workflows]
-- [Bloc v8.0.0 is out!][bloc_v8]
-- [Top 5 things we look for in Flutter code assessments][5_things]
 - [Why we use flutter_bloc for state management][why_bloc]
 
 [success_stories]: https://verygood.ventures/success-stories
 [vgv_website]: https://verygood.ventures/
 [workflows]: https://verygood.ventures/blog/configuring-workflows-for-your-flutter-projects?utm_source=github&utm_medium=readme&utm_campaign=workflows
-[bloc_v8]: https://verygood.ventures/blog/bloc-v8-release?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_blocv8
-[5_things]: https://verygood.ventures/blog/top-5-things-in-flutter-code-assessments?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_5_things
+[dart_frog]: https://verygood.ventures/blog/dart-frog?utm_source=github&utm_medium=readme&utm_campaign=dart_server
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
 [testing_resources]: https://verygood.ventures/blog/flutter-testing-resources?utm_source=github&utm_medium=readme&utm_campaign=testing_resources 
 [vgv_architecture]: https://verygood.ventures/blog/very-good-flutter-architecture?utm_source=github&utm_medium=readme&utm_campaign=app_architecture
