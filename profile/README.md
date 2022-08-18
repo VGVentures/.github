@@ -31,7 +31,7 @@ Check out our [open source tools][vgv_oss_github_link].
 ### 💻 Visit [our website][vgv_website]
 
 ### 📚 Learn more on [our blog][vgv_blog]
-- [Dart on the server with Dart Frog][dart_frog]
+- [Dart Frog is now stable][dart_frog_stable]
 - [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
 - [Configuring workflows for your Flutter projects][workflows]
@@ -40,7 +40,7 @@ Check out our [open source tools][vgv_oss_github_link].
 [success_stories]: https://verygood.ventures/success-stories
 [vgv_website]: https://verygood.ventures/
 [workflows]: https://verygood.ventures/blog/configuring-workflows-for-your-flutter-projects?utm_source=github&utm_medium=readme&utm_campaign=workflows
-[dart_frog]: https://verygood.ventures/blog/dart-frog?utm_source=github&utm_medium=readme&utm_campaign=dart_server
+[dart_frog_stable]: https://verygood.ventures/blog/dart-frog-stable?utm_source=github&utm_medium=readme&utm_campaign=dart_frog_stable
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc?utm_source=github&utm_medium=readme&utm_campaign=vgvreadme_why_bloc
 [testing_resources]: https://verygood.ventures/blog/flutter-testing-resources?utm_source=github&utm_medium=readme&utm_campaign=testing_resources 
 [vgv_architecture]: https://verygood.ventures/blog/very-good-flutter-architecture?utm_source=github&utm_medium=readme&utm_campaign=app_architecture
