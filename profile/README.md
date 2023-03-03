@@ -21,9 +21,9 @@ We work with the biggest companies to design, build, and scale successful Flutte
                 </a>
             </td>            
             <td style="text-align: center">
-                <h3 align="center"><a href="https://verygood.ventures/success-stories/hespress-case-study">Hespress</a></h3>
-                <a href="https://verygood.ventures/success-stories/hespress-case-study">
-                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63dabc9a449da9253153df94_Hespress_1.png" width="500"/>
+                <h3 align="center"><a href="https://verygood.ventures/success-stories/v1-sports">V1 Sports</a></h3>
+                <a href="https://verygood.ventures/success-stories/v1-sports">
+                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63f274341bb84d62d7bb7ab2_PR_V1_Golf_Images_Group_2.png" width="500"/>
                 </a>
             </td>
         </tr>
