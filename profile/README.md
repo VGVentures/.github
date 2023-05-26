@@ -15,7 +15,7 @@ We work with the biggest companies to design, build, and scale successful Flutte
     <table>
     <tr>
             <td style="text-align: center">
-                <h3 align="center"><a href="https://verygood.ventures/success-stories/flutter-news-toolkit">Flutter news Toolkit</a></h3>
+                <h3 align="center"><a href="https://verygood.ventures/success-stories/flutter-news-toolkit">Flutter News Toolkit</a></h3>
                 <a href="https://verygood.ventures/success-stories/flutter-news-toolkit">
                     <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63ce04af5fad4a7ffc8bc9ab_VGV.png" width="500"/>
                 </a>
@@ -45,8 +45,9 @@ We work with the biggest companies to design, build, and scale successful Flutte
 </div>
 
 ### 📚 Read [our blog][vgv_blog]
+- [How It’s Made: I/O FLIP][flip_made]
+- [Building Wear OS apps with Flutter: A very good guide][wear_os]
 - [Flutter News Toolkit: An advantage for publishers, powered by VGV][news_toolkit_blog]
-- [VGV at Flutter Forward][flutter_forward]
 - [Dart Frog is now stable][dart_frog_stable]
 - [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
@@ -68,5 +69,7 @@ We work with the biggest companies to design, build, and scale successful Flutte
 [vgv_architecture]: https://verygood.ventures/blog/very-good-flutter-architecture
 [testing_resources]: https://verygood.ventures/blog/flutter-testing-resources
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc
+[flip_made]: https://verygood.ventures/blog/how-its-made-i-o-flip
+[wear_os]: https://verygood.ventures/blog/building-wear-os-apps-with-flutter-a-very-good-guide
 
 ### 💻 Visit [our website][vgv_website]
