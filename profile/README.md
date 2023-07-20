@@ -5,10 +5,6 @@
 
 We work with the biggest companies to design, build, and scale successful Flutter apps. You can find our [open source tools here][vgv_oss_github_link].
 
-### Check out where VGV is headed in 2023 👇
-
-<a href="https://verygood.ventures/blog/where-flutter-and-vgv-are-headed-in-2023"><img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63bc479bf0670ee451708701_VGV%202023.png" alt="OSS Roadmap" width="500"/></a>
-
 ### 💡 See [our client work][success_stories]
 
 <div style="text-align: center">
