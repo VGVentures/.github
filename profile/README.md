@@ -21,17 +21,17 @@ We work with the biggest companies to design, build, and scale successful Flutte
                 </a>
             </td>            
             <td style="text-align: center">
-                <h3 align="center"><a href="https://verygood.ventures/success-stories/v1-sports">V1 Sports</a></h3>
-                <a href="https://verygood.ventures/success-stories/v1-sports">
-                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63f274341bb84d62d7bb7ab2_PR_V1_Golf_Images_Group_2.png" width="500"/>
+                <h3 align="center"><a href="https://verygood.ventures/success-stories/nav-increases-user-adoption-and-moves-to-mobile-first-development">Nav</a></h3>
+                <a href="https://verygood.ventures/success-stories/nav-increases-user-adoption-and-moves-to-mobile-first-development">
+                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/644f810df671a4397292b6d0_nav.png" width="500"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-                <h3 align="center"><a href="https://verygood.ventures/success-stories/betterment">Betterment</a></h3>
-                <a href="https://verygood.ventures/success-stories/betterment">
-                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/6283f8ed5591215f7a1a4fd9_Betterment%20(1).png" width="500"/>
+                <h3 align="center"><a href="https://verygood.ventures/success-stories/v1-sports">V1 Sports</a></h3>
+                <a href="https://verygood.ventures/success-stories/v1-sports">
+                    <img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63f274341bb84d62d7bb7ab2_PR_V1_Golf_Images_Group_2.png" width="500"/>
                 </a>
             </td>
             <td style="text-align: center">
@@ -47,7 +47,6 @@ We work with the biggest companies to design, build, and scale successful Flutte
 ### 📚 Read [our blog][vgv_blog]
 - [How It’s Made: I/O FLIP][flip_made]
 - [Building Wear OS apps with Flutter: A very good guide][wear_os]
-- [Flutter News Toolkit: An advantage for publishers, powered by VGV][news_toolkit_blog]
 - [Dart Frog is now stable][dart_frog_stable]
 - [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
