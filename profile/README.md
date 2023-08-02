@@ -41,9 +41,9 @@ We work with the biggest companies to design, build, and scale successful Flutte
 </div>
 
 ### 📚 Read [our blog][vgv_blog]
+- [Dart Frog 1.0 is here!][dart_frog_release]
 - [How It’s Made: I/O FLIP][flip_made]
 - [Building Wear OS apps with Flutter: A very good guide][wear_os]
-- [Dart Frog is now stable][dart_frog_stable]
 - [Very good layered architecture in Flutter][vgv_architecture]
 - [Flutter testing resources][testing_resources]
 - [Why we use flutter_bloc for state management][why_bloc]
@@ -60,7 +60,7 @@ We work with the biggest companies to design, build, and scale successful Flutte
 [vgv_oss_github_link]: https://github.com/VeryGoodOpenSource
 [news_toolkit_blog]: https://verygood.ventures/blog/flutter-news-toolkit-an-advantage-for-publishers-powered-by-vgv
 [flutter_forward]: https://verygood.ventures/blog/vgv-at-flutter-forward
-[dart_frog_stable]: https://verygood.ventures/blog/dart-frog-stable
+[dart_frog_release]: https://verygood.ventures/blog/dart-frog-1-0-release
 [vgv_architecture]: https://verygood.ventures/blog/very-good-flutter-architecture
 [testing_resources]: https://verygood.ventures/blog/flutter-testing-resources
 [why_bloc]: https://verygood.ventures/blog/why-we-use-flutter-bloc
